@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Georgia Atkinson"
-  favicon: favicon.png
+  favicon: favicon.ico
   navbar:
     left:
       - href: index.qmd
