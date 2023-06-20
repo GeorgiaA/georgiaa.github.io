@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "georgiaa.github.io",
+    "title": "Georgia Atkinson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is the very initial stages of my website. Please bare with me as I get to grips with github pages and Quarto to make a website!\nTo learn more about Quarto websites visit here."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Georgia Atkinson",
+    "section": "",
+    "text": "This is the very initial stages of my website. Please bare with me as I get to grips with github pages and Quarto to make a website!\nTo learn more about Quarto websites visit here."
   }
 ]

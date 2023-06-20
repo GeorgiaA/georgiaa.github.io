@@ -1,7 +1,9 @@
 ---
-title: "georgiaa.github.io"
+title: "Georgia Atkinson"
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is the very initial stages of my website. Please bare with me as I get to grips with github pages and Quarto to make a website!
+
+To learn more about Quarto websites visit [here](https://quarto.org/docs/websites).
